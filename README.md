@@ -22,20 +22,20 @@
    - Type
    - Fuel
    - Price
-# DATA CLEANING
+# 🪄**DATA CLEANING**
    ## Missing Value: 
    Initial data was cleaned and processed to ensure accuracy and high performance, providing meaningful insights.
    ## Duplicate Rows: 
    The dataset was further audited for redundancy. A total of 5 duplicate records were identified and removed. This step        ensures that data runs accurately and avoids mistakes. After removing duplicate rows, 187 rows remain to analyze.
    ## Detach Value: 
    The initial row name "Model" was used for the formula to detach the value into 2 rows, named "Brand" and "Model."
-# DESCRIPTIVE DATA
+# 🧩**DESCRIPTIVE DATA**
    ## Descriptive statistics
       - The average vehicle in the dataset was manufactured in 2016, with a median price of 750,000.
       - The average mileage is about 119,000 km, with some vehicles reaching as high as 500,000 km. This suggests that many cars in the dataset have been extensively used but are still actively traded in the market
    <img width="510" height="253" alt="{BF16C9D3-D70F-4BD0-85BC-1B2EA8AF16EC}" src="https://github.com/user-attachments/assets/d62d17d4-f2ec-42df-bb6a-7c69c57140f3" />
    
-   ## Key Insight
+   ## 🔑Key Insight
    ### Insight 1: Mostly resale cars belong to the automotive type.
    <img width="366" height="122" alt="{B34307D6-36CD-4A7B-956E-B5016B10866E}" src="https://github.com/user-attachments/assets/03db6cd4-a07b-40d4-bb9d-721fbfd1f7ee" />
    <img width="403" height="348" alt="{5FD829C8-CC10-4CCB-8FB7-9E594DFC2BB3}" src="https://github.com/user-attachments/assets/215ee22a-bb13-450a-9d78-052539c12975" />
