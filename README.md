@@ -33,14 +33,15 @@
    ## Descriptive statistics
       - The average vehicle in the dataset was manufactured in 2016, with a median price of 750,000.
       - The average mileage is about 119,000 km, with some vehicles reaching as high as 500,000 km. This suggests that many          cars in the dataset have been extensively used but are still actively traded in the market
-<img width="510" height="253" alt="{BF16C9D3-D70F-4BD0-85BC-1B2EA8AF16EC}" src="https://github.com/user-attachments/assets/d62d17d4-f2ec-42df-bb6a-7c69c57140f3" />
-
+   <img width="510" height="253" alt="{BF16C9D3-D70F-4BD0-85BC-1B2EA8AF16EC}" src="https://github.com/user-attachments/assets/d62d17d4-f2ec-42df-bb6a-7c69c57140f3" />
+   
    ## Key Insight
    ### Insight 1
+   
    <img width="260" height="116" alt="{67DEA80F-F5DC-4739-A43B-55951459CD92}" src="https://github.com/user-attachments/assets/c0675168-b094-4063-a1a5-2daec17c678d" />
    <img width="409" height="354" alt="{5FE9100D-EF98-4D37-A6B9-1097A2E2F059}" src="https://github.com/user-attachments/assets/4a5e23f6-5727-4f1e-9f94-d6eb886c36d1" />
    
-         -> Automatic transmission accounts for 87.2% of all vehicles, and all cars in the dataset use gasoline engines.                This indicates that the used car market is heavily concentrated around automatic gasoline vehicles, reflecting                strong consumer preference for convenience and conventional fuel technology. Dealers and sellers should                      prioritize this vehicle type because it aligns closely with prevailing market demand.
+- Automatic transmission accounts for 87.2% of all vehicles, and all cars in the dataset use gasoline engines. This indicates that the used car market is heavily concentrated around automatic gasoline vehicles, reflecting strong consumer preference for convenience and conventional fuel technology. Dealers and sellers should prioritize this vehicle type because it aligns closely with prevailing market demand.
    ### Insight 2
    <img width="1064" height="498" alt="{4BD86D51-A3AB-47B8-AEA2-DA1EC4A8D74A}" src="https://github.com/user-attachments/assets/fc1468a8-a23a-4cad-8463-2ad76a65c4be" />
    - It can clearly be seen that Kia and Hyundai have the highest number of used prices on the market. It shows that these are the popular brands, which many families choose to buy.
@@ -49,3 +50,6 @@
      <img width="826" height="392" alt="{8882324E-DACF-4F0E-A834-85133A5A36DB}" src="https://github.com/user-attachments/assets/633519fb-e8f7-428d-8e25-69f014c0dd6c" />
    - About KIA, Cerato, Picanto, and Sol are the top 3 models that have the highest sales.
 # CONCLUSION
+- Automatic transmission vehicles account for 87.2% of the dataset, indicating a strong consumer preference for convenience and ease of driving. In addition, Kia and Hyundai are the most common brands, suggesting they have strong resale demand and popularity in the used car market.
+# Recommendation
+- Used car dealers should prioritize stocking automatic vehicles, particularly popular models from Kia and Hyundai, to better match customer preferences and improve sales performance. Buyers looking for reliable and affordable used cars should also consider these brands due to their strong market presence and resale value.
